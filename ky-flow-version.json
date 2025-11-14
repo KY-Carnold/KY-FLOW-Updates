@@ -1,0 +1,8 @@
+{
+  "current_version": "1.0.0",
+  "minimum_version": "1.0.0",
+  "package_filename": "KY-FLOW-v1.0.0.zip",
+  "changelog": "Initial production release\n\nFeatures:\n- Ambient sampling module\n- Reference sampling module\n- Wild Rivers sampling module\n- Calibration tracking\n- Chain of Custody generation\n- Label printer integration\n- WQB Generic module\n- Macro Pick module\n- Automatic updates via OneDrive\n- No admin rights required",
+  "release_date": "2025-11-14",
+  "size_mb": 376.64
+}
