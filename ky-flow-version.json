@@ -1,8 +1,13 @@
 {
-  "current_version": "1.1.0",
+  "current_version": "1.0.1",
+  "release_date": "2025-11-19",
+  "download_url": "file:///C:\\Users\\colin.arnold\\OneDrive - Commonwealth of Kentucky\\KY-FLOW\\updates-repo/KY-FLOW-v1.0.1.zip",
+  "package_name": "KY-FLOW-v1.0.1.zip",
+  "sha256": "4768bcf3c1fd872b746829d89a6fca2f1dfdd31cc8abf1dcba525b4ed8549770",
+  "size_bytes": 395001791,
   "minimum_version": "1.0.0",
-  "package_filename": "KY-FLOW-v1.1.0.zip",
-  "changelog": "Version 1.1.0 Updates\n\nNew Features:\n- UI Scale setting (75-200%) for improved accessibility\n- Redesigned home page with module cards and quick tips\n- Update status display on home page\n- Theme-aware icons that adapt to light/dark mode\n\nImprovements:\n- Better dark mode text contrast\n- Improved icon scaling with UI scale\n- Enhanced settings page organization\n\nBug Fixes:\n- Fixed sidebar icon scaling issues\n- Improved theme switching reliability",
-  "release_date": "2025-11-18",
-  "size_mb": 376.71
+  "changelog": [
+    "Testing"
+  ],
+  "notes": "Released on November 19, 2025"
 }
