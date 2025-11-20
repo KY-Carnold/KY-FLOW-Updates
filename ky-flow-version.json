@@ -1,13 +1,13 @@
 {
   "current_version": "0.0.1",
-  "release_date": "2025-11-19",
+  "release_date": "2025-11-20",
   "download_url": "file:///C:\\Users\\colin.arnold\\OneDrive - Commonwealth of Kentucky\\KY-FLOW\\updates-repo/KY-FLOW-v0.0.1.zip",
   "package_name": "KY-FLOW-v0.0.1.zip",
-  "sha256": "d8792aa541f02c23c8d4c91391ca5a94cbddfbb6cc1369d409743a6da728fe45",
-  "size_bytes": 395002633,
+  "sha256": "4ee147d75ac5b243a58b54f74d85d3298e5ecbe40e2eb28f9c8572ecff126d7b",
+  "size_bytes": 395417556,
   "minimum_version": "0.0.1",
   "changelog": [
-    "Test"
+    "Testing the deployment."
   ],
-  "notes": "Released on November 19, 2025"
+  "notes": "Released on November 20, 2025"
 }
