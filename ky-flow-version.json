@@ -1,27 +1,27 @@
 {
-  "current_version": "0.0.5",
+  "current_version": "0.0.6",
   "release_date": "2025-11-21",
   "download_url": "",
-  "package_name": "KY-FLOW-v0.0.5.zip",
-  "sha256": "e618cabd7d69b2fdd17e6e522a0b3415d0e029e085665f859bf70dda0f3527cf",
-  "size_bytes": 396045342,
-  "minimum_version": "0.0.5",
+  "package_name": "KY-FLOW-v0.0.6.zip",
+  "sha256": "8ad28a69b1d6d791867e4cc4e7cf75f18f6e284085c2ba1a4067cb892c7e3c46",
+  "size_bytes": 396043437,
+  "minimum_version": "0.0.6",
   "changelog": [
-    "Test 3"
+    "Test"
   ],
   "notes": "Released on November 21, 2025",
   "component_versions": {
-    "app": "0.0.5",
+    "app": "0.0.6",
     "data": "2025-11-21",
     "templates": "2025-11-21"
   },
   "packages": [
     {
       "package_type": "app",
-      "package_name": "KY-FLOW-v0.0.5.zip",
+      "package_name": "KY-FLOW-v0.0.6.zip",
       "download_url": "",
-      "sha256": "e618cabd7d69b2fdd17e6e522a0b3415d0e029e085665f859bf70dda0f3527cf",
-      "size_bytes": 396045342
+      "sha256": "8ad28a69b1d6d791867e4cc4e7cf75f18f6e284085c2ba1a4067cb892c7e3c46",
+      "size_bytes": 396043437
     }
   ]
 }
