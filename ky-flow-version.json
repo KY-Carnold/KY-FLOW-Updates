@@ -3,11 +3,11 @@
   "release_date": "2025-11-21",
   "download_url": "file:///C:\\Users\\colin.arnold\\OneDrive - Commonwealth of Kentucky\\KY-FLOW\\updates-repo/KY-FLOW-v0.0.2.zip",
   "package_name": "KY-FLOW-v0.0.2.zip",
-  "sha256": "8cdd90825ef11e9bdb32303711a4a8c0154c4d2f323e4c902e00e62fe0ca72b3",
-  "size_bytes": 396040710,
+  "sha256": "0edd6fd27203fe0d2c477f691f44ba11531876115af945265ff44208fbf102b4",
+  "size_bytes": 396040700,
   "minimum_version": "0.0.2",
   "changelog": [
-    "Added versioning to data and templates"
+    "Changed update message"
   ],
   "notes": "Released on November 21, 2025",
   "component_versions": {
@@ -20,8 +20,8 @@
       "package_type": "app",
       "package_name": "KY-FLOW-v0.0.2.zip",
       "download_url": "file:///C:\\Users\\colin.arnold\\OneDrive - Commonwealth of Kentucky\\KY-FLOW\\updates-repo/KY-FLOW-v0.0.2.zip",
-      "sha256": "8cdd90825ef11e9bdb32303711a4a8c0154c4d2f323e4c902e00e62fe0ca72b3",
-      "size_bytes": 396040710
+      "sha256": "0edd6fd27203fe0d2c477f691f44ba11531876115af945265ff44208fbf102b4",
+      "size_bytes": 396040700
     }
   ]
 }
