@@ -3,11 +3,11 @@
   "release_date": "2025-11-21",
   "download_url": "",
   "package_name": "KY-FLOW-v0.0.3.zip",
-  "sha256": "91aed9380621afc72eb416b8cddc2706b475bc244f1a86aea2bfe5b42066f24a",
-  "size_bytes": 396044901,
+  "sha256": "ab3e6a36644db48154b31c3060ee1703e85354522986e94e0dc7217b54bb7265",
+  "size_bytes": 396044308,
   "minimum_version": "0.0.3",
   "changelog": [
-    "Testing onedrive share"
+    "Testing"
   ],
   "notes": "Released on November 21, 2025",
   "component_versions": {
@@ -20,8 +20,8 @@
       "package_type": "app",
       "package_name": "KY-FLOW-v0.0.3.zip",
       "download_url": "",
-      "sha256": "91aed9380621afc72eb416b8cddc2706b475bc244f1a86aea2bfe5b42066f24a",
-      "size_bytes": 396044901
+      "sha256": "ab3e6a36644db48154b31c3060ee1703e85354522986e94e0dc7217b54bb7265",
+      "size_bytes": 396044308
     }
   ]
 }
