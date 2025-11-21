@@ -1,15 +1,13 @@
 {
   "current_version": "0.0.3",
   "release_date": "2025-11-21",
-  "download_url": "file:///C:\\Users\\colin.arnold\\OneDrive - Commonwealth of Kentucky\\KY-FLOW\\updates-repo/KY-FLOW-v0.0.3.zip",
+  "download_url": "",
   "package_name": "KY-FLOW-v0.0.3.zip",
-  "sha256": "23cd73be4a4542bcafb675706bb41ecbbd3782514a372c0fb5797f2efa854f58",
-  "size_bytes": 396041906,
+  "sha256": "91aed9380621afc72eb416b8cddc2706b475bc244f1a86aea2bfe5b42066f24a",
+  "size_bytes": 396044901,
   "minimum_version": "0.0.3",
   "changelog": [
-    "Split out PFAS dups and blanks.",
-    "Removed required from date and collector.",
-    "Added required month to Ambient."
+    "Testing onedrive share"
   ],
   "notes": "Released on November 21, 2025",
   "component_versions": {
@@ -21,9 +19,9 @@
     {
       "package_type": "app",
       "package_name": "KY-FLOW-v0.0.3.zip",
-      "download_url": "file:///C:\\Users\\colin.arnold\\OneDrive - Commonwealth of Kentucky\\KY-FLOW\\updates-repo/KY-FLOW-v0.0.3.zip",
-      "sha256": "23cd73be4a4542bcafb675706bb41ecbbd3782514a372c0fb5797f2efa854f58",
-      "size_bytes": 396041906
+      "download_url": "",
+      "sha256": "91aed9380621afc72eb416b8cddc2706b475bc244f1a86aea2bfe5b42066f24a",
+      "size_bytes": 396044901
     }
   ]
 }
